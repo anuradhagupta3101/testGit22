@@ -2,3 +2,4 @@ this is an addition
 ssh key added
 hello there 
 !it is an electronic machine
+checking for bare repo
