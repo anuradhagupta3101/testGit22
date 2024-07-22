@@ -3,3 +3,4 @@ ssh key added
 hello there 
 !it is an electronic machine
 checking for bare repo
+this is the new change after cloning the code in vs code
